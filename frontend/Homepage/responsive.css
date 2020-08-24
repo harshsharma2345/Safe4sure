@@ -1,0 +1,178 @@
+@media only screen and (min-width:200px)  and (max-width:400px){
+    html,body{
+        
+        
+        overflow-x:hidden;
+    }
+  
+   
+    .navbar{
+        width:100%;
+        
+    }
+    .nav-list li{
+        font-size:0.5rem;
+    }
+    .nav-list li a{
+        padding:5px 5px;
+    }
+    .head{
+        margin-left:4vw;
+    }
+    .head a img{
+        position: relative;
+        right: 40px;
+        width:80px;
+    }
+    .header{
+        max-height:50vh;
+    }
+    .mySlides img{
+        max-height:50vh;
+    }
+    .prev, .next {
+        margin-top:-150px;}
+   
+    .mySlides{
+       
+       
+        width:100%;
+    }
+   
+    
+   
+      #ourproducts{
+        
+          margin-right:auto;
+          margin-left:auto;
+          height:200vh;
+          width:100%;
+      }
+      .productshead{
+          margin-top:15px;
+        font-size:30px;
+    }
+    .element h1{
+        font-size:18px;
+    }
+      .element{
+          width:80%;
+          text-align:center;
+          margin:5px 20px;
+      }
+      #second{
+          margin-top:5px;
+      }
+      .element img{
+          height:50%;
+      }
+
+  
+      #footer{
+          margin-bottom:0;
+          margin-top:0px;
+          height:135px;
+          width:100%;
+      }
+      .links li{
+          font-size:0.5rem;
+      }
+      .first p{
+         display:block;
+          text-align:center;
+          font-size:0.5rem;
+          margin-top:20px;
+         
+      }
+      .first{
+         
+          padding:5px 0px;
+      }
+
+      #distributorship{
+          margin-top:100px;
+          width:100%;
+      }
+      #distributorship h1{
+          margin-top:50px;
+          font-size:30px;
+      }
+      .form1{
+          margin-top:-9px;
+          padding-left:14%;
+          width:90%;
+          display:block;
+      }
+      section form input{
+          font-size:12px;
+      }
+      .submit{
+          margin-bottom:0px;
+          font-size:12px;
+          width:30%;
+      }
+      #distributorship section{
+          font-size:14px;
+      }
+      #distributorship section p{
+          margin-top:0px;
+      }
+
+     
+      #contactus{
+          width:100%
+      }
+     .contact{
+        margin-bottom:20px;
+     }
+      .contactstyle{
+          font-size:10px;
+         
+         
+          
+      }
+      #contactus h1{
+          margin-top:50px;
+          font-size:30px;
+      }
+
+     
+      #aboutus{
+          margin-top:50px;
+          width:100%;
+          
+      }
+      #aboutus h1{
+          margin-top:50px;
+          font-size:30px;
+      }
+      .about{
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          
+      }
+      .fa-users{
+          
+          height:30px;
+      }
+      .aboutstyle{
+        
+          line-height:100%;
+
+          width:100%;
+      }
+      .aboutstyle p{
+
+          font-size:10px;
+          margin-top:10px;
+      }
+}
+
+
+
+
+
+
+
+
